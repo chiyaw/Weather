@@ -16,7 +16,7 @@ A simple, modern weather application built with **React** and **Vite**. Instantl
 
 ## Screenshots
 
-*(Add your own screenshots here for better presentation!)*
+![Weather App Screenshot](imgwea)
 
 ---
 
