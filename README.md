@@ -89,12 +89,6 @@ public/
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgements
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/).
