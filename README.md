@@ -1,4 +1,4 @@
-# 🌤️ Weather App
+# 🌤️ Bhonpu App
 
 A beautiful, modern weather application built with **React 19** and **Vite** that provides real-time weather information with an elegant, interactive user interface.
 
